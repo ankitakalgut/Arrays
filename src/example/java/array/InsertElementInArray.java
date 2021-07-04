@@ -12,7 +12,7 @@ public class InsertElementInArray {
 		int[] a = { 10, 20, 30, 40, 50 };
 		int position = 3;
 		int element=100;
-		// Insert an element 100 at position 3
+		// Insert an element 100 at position 3 of an array
 		for (int i = a.length - 1; i >position - 1; i--) {
 			a[i] = a[i - 1];
 		}
