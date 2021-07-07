@@ -2,7 +2,7 @@ package example.java.array;
 
 /**
  * @author akalgutk 
- * Insert an element 100 at position 3 and print the elements of the array
+ * Insert an element 100 at position 3 and print the elements of the array using foreachloop
  * Note:this class will insert an element based on position and not index position
  */
 
