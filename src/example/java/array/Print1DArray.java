@@ -3,7 +3,7 @@ package example.java.array;
 /**
  * @author akalgutk 
  * 
- * This class is used to print the elements of 1D Array.
+ * This class is used to print the elements of 1D Array
  */
 
 public class Print1DArray {

@@ -3,7 +3,7 @@ package example.java.array;
 /**
  * @author akalgutk
  *
- *This class is used to print the elements of 2D Array.
+ *This class is used to print the elements of 2D Array
  */
 public class Print2DArray {
 	
