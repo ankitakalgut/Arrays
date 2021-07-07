@@ -14,7 +14,7 @@ public class abcd {
 		} 
 		else
 		{
-			System.out.println("not");
+			System.out.println("false");
 		}
 	}
 }
