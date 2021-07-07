@@ -1,7 +1,7 @@
 package example.java.array;
 
 /**
- * @author akalgutk 
+ * @author akalgutk-Ankita Kalgutkar 
  * Insert an element 100 at position 3 and print the elements of the array
  * Note:this class will insert an element based on position and not index position.
  */
