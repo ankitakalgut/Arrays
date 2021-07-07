@@ -1,6 +1,3 @@
-/**
- * 
- */
 package example.java.array;
 
 /**
@@ -8,10 +5,8 @@ package example.java.array;
  *
  */
 public class abcd {
-
 	public static void main(String args[])
 {
-
 		String abcd = "";
 		if (abcd.isEmpty()) 
 		{
